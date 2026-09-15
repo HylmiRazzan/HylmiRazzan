@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hylmi Razzan</h1>
-<h3 align="center"> Seorang mahasiswa S1 *Data Science* di BINUS University yang fokus mendalami *Machine Learning* dan *Deep Learning*. Saya tertarik dengan potensi *Artificial Intelligence* (AI) dalam menyelesaikan tantangan kompleks di dunia nyata, dengan komitmen untuk menguasai dan mengintegrasikan teknologi ini guna mendorong inovasi yang bermakna.
+<h3 align="center"> Seorang mahasiswa S1 Data Science di BINUS University yang fokus mendalami Machine Learning dan Deep Learning. Saya tertarik dengan potensi Artificial Intelligence (AI) dalam menyelesaikan tantangan kompleks di dunia nyata, dengan komitmen untuk menguasai dan mengintegrasikan teknologi ini guna mendorong inovasi yang bermakna.
 
 > *"Where there's a will, there's a way."* </h3>
 
@@ -46,7 +46,9 @@
 *   **Arsitektur & Komparasi:** Eksperimen ini membandingkan empat algoritma secara komprehensif, yaitu **Decision Tree (DT)**, **Random Forest (RF)**, **Gradient Boosting Machine (GBM)**, dan **XGBoost (XGB)**. Setiap algoritma dievaluasi melalui dua tahap, yakni performa model *base* (parameter bawaan) melawan model *tuned*. Seluruh proses optimasi untuk mencari kombinasi parameter terbaik pada keempat model tersebut dieksekusi secara terukur menggunakan metode **GridSearchCV**.
 
 
-📫 How to reach me **hylmirazzan5@gmail.com**
+
+📫 Email: **hylmirazzan5@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
