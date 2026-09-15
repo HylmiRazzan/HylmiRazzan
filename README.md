@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hylmi Razzan</h1>
-<h3 align="center"> Saya adalah mahasiswa S1 *Data Science* di BINUS University yang fokus mendalami *Machine Learning* dan *Deep Learning*. Saya tertarik dengan potensi *Artificial Intelligence* (AI) dalam menyelesaikan tantangan kompleks di dunia nyata, dengan komitmen untuk menguasai dan mengintegrasikan teknologi ini guna mendorong inovasi yang bermakna.
+<h3 align="center"> Seorang mahasiswa S1 *Data Science* di BINUS University yang fokus mendalami *Machine Learning* dan *Deep Learning*. Saya tertarik dengan potensi *Artificial Intelligence* (AI) dalam menyelesaikan tantangan kompleks di dunia nyata, dengan komitmen untuk menguasai dan mengintegrasikan teknologi ini guna mendorong inovasi yang bermakna.
 
 > *"Where there's a will, there's a way."* </h3>
 
