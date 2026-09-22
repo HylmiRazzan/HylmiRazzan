@@ -48,9 +48,9 @@
       <b>Bootcamp Data Analyst</b>
     </td>
     <td align="center">
-      <img src="[MASUKKAN_URL_SERTIFIKAT_4_DI_SINI]" width="400" alt="Sertifikat 4">
+      <img src="https://github.com/user-attachments/assets/1b573119-dc70-47ea-a05a-c4f7242125f5" width="400" alt="Sertifikat 4">
       <br>
-      <b>Judul Sertifikat Keempat Anda</b>
+      <b>Short Class Python for Data Analyst & Google Colab</b>
     </td>
   </tr>
 </table>
