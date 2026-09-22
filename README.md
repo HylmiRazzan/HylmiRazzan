@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, Saya Muhammad Hylmi Razzan | Machine Learning Enthusiast</h1>
+<h1 align="center"><img width="1584" height="396" alt="@HylmiRazzan (1)" src="https://github.com/user-attachments/assets/6bc4df12-16a8-44de-9549-5d7718ba6b71" />
+</h1>
 <h3 align="center"> Mahasiswa S1 Data Science di BINUS University yang mendedikasikan diri untuk mengeksplorasi potensi dari Machine Learning dan Deep Learning. Memiliki ketertarikan mendalam dalam merancang model prediktif, mengolah data kompleks, serta menghadirkan solusi cerdas yang relevan untuk kebutuhan dunia nyata.</h3>
 
 <br>
