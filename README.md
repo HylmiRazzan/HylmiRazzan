@@ -28,7 +28,6 @@
 <br>
 
 ## 🏆 Certifications & Achievements
-
 <table align="center">
   <tr>
     <td align="center">
@@ -37,7 +36,7 @@
       <b>Fundamentals of Deep Learning</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f08e37f9-f180-4d14-9ae3-79d3e82d0f9b" width="400" alt="NVIDIA">
+      <img src="https://github.com/user-attachments/assets/6a1ef2b7-5053-4618-a33e-447469e9c0eb" width="400" alt="NVIDIA">
       <br>
       <b>Efficient Large Language Model (LLM) Customization</b>
     </td>
