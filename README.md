@@ -12,7 +12,7 @@
 
 <br>
 
-## 🔭 Projects Portfolio
+## 🔭 Projects
 
 | Project | Overview | Architecture | Tech Stack | Domain & Data |
 |---|---|---|---|---|
@@ -32,28 +32,24 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="<img width="1700" height="2200" alt="NVIDIA, Deep Learning(1Page)-1" src="https://github.com/user-attachments/assets/2e13e7bd-0e43-4d9d-982c-f08d31e0b7c2" />
-"
-width="400" alt="NVIDIA">
+      <img src="https://github.com/user-attachments/assets/e231b34a-e14e-42d0-8c4c-8c70e842313f" width="400" alt="NVIDIA">
       <br>
       <b>Fundamentals of Deep Learning</b>
     </td>
     <td align="center">
-      <img src="<img width="1653" height="2339" alt="NVIDIA, LLM(1Page)-1" src="https://github.com/user-attachments/assets/9e8ad750-a34f-4d77-a27b-7336d04b70d8" />
-" width="400" alt="NVIDIA">
+      <img src="https://github.com/user-attachments/assets/f08e37f9-f180-4d14-9ae3-79d3e82d0f9b" width="400" alt="NVIDIA">
       <br>
       <b>Efficient Large Language Model (LLM) Customization</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="<img width="2339" height="1656" alt="Muhammad_Hylmi_Razzan-bootcamp-data-analyst(1page)-1" src="https://github.com/user-attachments/assets/32c96032-5ee4-4298-a980-fe148b5dff27" />
-" width="400" alt="KarirNex">
+      <img src="https://github.com/user-attachments/assets/32c96032-5ee4-4298-a980-fe148b5dff27" width="400" alt="KarirNex">
       <br>
       <b>Bootcamp Data Analyst</b>
     </td>
     <td align="center">
-      <img src="[LINK_SERTIFIKAT_4]" width="400" alt="Sertifikat 4">
+      <img src="[MASUKKAN_URL_SERTIFIKAT_4_DI_SINI]" width="400" alt="Sertifikat 4">
       <br>
       <b>Judul Sertifikat Keempat Anda</b>
     </td>
