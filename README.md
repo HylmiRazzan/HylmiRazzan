@@ -12,7 +12,7 @@
 
 <br>
 
-## 🔭 Projects
+## 🔭 Projects Portfolio
 
 | Project | Overview | Architecture | Tech Stack | Domain & Data |
 |---|---|---|---|---|
@@ -24,6 +24,41 @@
 | **[Jakarta Air Quality Analysis](https://github.com/HylmiRazzan/Machine-Learning/tree/main/logistic-regression/jakarta-air-quality-analysis)** | <ul><li>Klasifikasi 5 kategori kualitas udara (ISPU).</li><li>Transformasi logaritmik untuk data polusi sangat *skewed*.</li></ul> | <ul><li>**Logistic Regression** (Multikelas).</li><li>**PCA** untuk reduksi dimensi.</li></ul> | 📊 **Power BI**, GridSearchCV, PCA | Machine Learning, Classification, Tabular |
 | **[EV Battery Failure Classification](https://github.com/HylmiRazzan/Machine-Learning/tree/main/tree-based-classifier/EV-battery-failure)** | <ul><li>Deteksi dini potensi kegagalan komponen baterai EV.</li><li>Fokus pada mitigasi *imbalanced dataset* via *class weighting*.</li></ul> | <ul><li>Komparasi **Tree-Based Models**.</li><li>Algoritma: Random Forest, GBM, XGBoost.</li></ul> | XGBoost, LightGBM, Random Forest | Machine Learning, Classification, Tabular |
 | **[Housing Price Prediction](https://github.com/HylmiRazzan/Machine-Learning/tree/main/tree-based-regressor/housing-price)** | <ul><li>Prediksi estimasi nilai properti perumahan.</li><li>Fokus pada impak *hyperparameter tuning* regresi.</li></ul> | <ul><li>Komparasi **Baseline vs Tuned Model**.</li><li>Algoritma: Decision Tree, RF, GBM, XGBoost.</li></ul> | GridSearchCV, XGBoost, GBM, Random Forest | Machine Learning, Regression, Tabular |
+
+<br>
+
+## 🏆 Certifications & Achievements
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="<img width="1700" height="2200" alt="NVIDIA, Deep Learning(1Page)-1" src="https://github.com/user-attachments/assets/2e13e7bd-0e43-4d9d-982c-f08d31e0b7c2" />
+"
+width="400" alt="NVIDIA">
+      <br>
+      <b>Fundamentals of Deep Learning</b>
+    </td>
+    <td align="center">
+      <img src="<img width="1653" height="2339" alt="NVIDIA, LLM(1Page)-1" src="https://github.com/user-attachments/assets/9e8ad750-a34f-4d77-a27b-7336d04b70d8" />
+" width="400" alt="NVIDIA">
+      <br>
+      <b>Efficient Large Language Model (LLM) Customization</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="<img width="2339" height="1656" alt="Muhammad_Hylmi_Razzan-bootcamp-data-analyst(1page)-1" src="https://github.com/user-attachments/assets/32c96032-5ee4-4298-a980-fe148b5dff27" />
+" width="400" alt="KarirNex">
+      <br>
+      <b>Bootcamp Data Analyst</b>
+    </td>
+    <td align="center">
+      <img src="[LINK_SERTIFIKAT_4]" width="400" alt="Sertifikat 4">
+      <br>
+      <b>Judul Sertifikat Keempat Anda</b>
+    </td>
+  </tr>
+</table>
 
 <br>
 
