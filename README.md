@@ -28,32 +28,45 @@
 <br>
 
 ## 🏆 Certifications & Achievements
+
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e231b34a-e14e-42d0-8c4c-8c70e842313f" width="400" alt="NVIDIA">
+      <img src="https://github.com/user-attachments/assets/e231b34a-e14e-42d0-8c4c-8c70e842313f" width="280" alt="NVIDIA">
       <br>
       <b>Fundamentals of Deep Learning</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6a1ef2b7-5053-4618-a33e-447469e9c0eb" width="400" alt="NVIDIA">
+      <img src="https://github.com/user-attachments/assets/6a1ef2b7-5053-4618-a33e-447469e9c0eb" width="280" alt="NVIDIA">
       <br>
-      <b>Efficient Large Language Model (LLM) Customization</b>
+      <b>Efficient LLM Customization</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d8e56fa6-4448-4d1b-a798-401fd6486133" width="280" alt="NVIDIA">
+      <br>
+      <b>Building RAG Agents with LLMs</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/32c96032-5ee4-4298-a980-fe148b5dff27" width="400" alt="KarirNex">
+      <img src="https://github.com/user-attachments/assets/32c96032-5ee4-4298-a980-fe148b5dff27" width="280" alt="KarirNex">
       <br>
       <b>Bootcamp Data Analyst</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/1b573119-dc70-47ea-a05a-c4f7242125f5" width="400" alt="Sertifikat 4">
+      <img src="https://github.com/user-attachments/assets/1b573119-dc70-47ea-a05a-c4f7242125f5" width="280" alt="KarirNex">
       <br>
-      <b>Short Class Python for Data Analyst & Google Colab</b>
+      <b>Short Class Python & Google Colab</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cff11d8e-d02a-4058-9d19-57e5d98b4f42" width="280" alt="KarirNex">
+      <br>
+      <b>Short Class Power BI Dashboard</b>
     </td>
   </tr>
 </table>
+
+<br>
 
 <br>
 
@@ -62,6 +75,7 @@
 <br>
 
 📫 **Email:** hylmirazzan5@gmail.com  
+
 
 
 <h3 align="left">Connect with me:</h3>
